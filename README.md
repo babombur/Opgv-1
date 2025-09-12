@@ -16,3 +16,5 @@ commit
 git help
 
 hei
+
+# dette er fett, jævla god test 
