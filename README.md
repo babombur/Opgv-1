@@ -18,3 +18,4 @@ git help
 hei
 
 # dette er fett, jævla god test 
+Hei endelig kalrte jeg det hilsen Emil
