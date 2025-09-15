@@ -19,3 +19,4 @@ hei
 
 # dette er fett, jævla god test 
 Hei endelig kalrte jeg det hilsen Emil
+Dette er min branch
